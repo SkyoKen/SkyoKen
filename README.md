@@ -1,3 +1,18 @@
+<div align="center">
+  <h1></h1>
+  <p>🌱Trying to be an Embedded Hardware,Frontend,Backend,AI and IoT Fullstack Engineer⭐!!!</p>
+  <p><a href="https://github.com/SkyoKen"><img src="https://img.shields.io/github/followers/SkyoKen?style=social" alt="forks"></a></p>
+  <p><a href="README.md">ENGLISH</a> | <a href="README.md">中文</a> |  <a href="README.md">日本語</a></p>
+</div>
+
+## My Main Projects (Present/Past)
+
+
+
+I have done a personal using IoT system By Arduino and raspberryPI3. And I prepare to make a automatic pet feeder  for my cats.
+
+
+## Tech Stack
 
 ### 💻OS
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -32,20 +47,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyoKen&show_icons=true&theme=dark)
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=SkyoKen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!--
- https://github.com/anuraghazra/github-readme-stats
--->
-<!--
-**SkyoKen/SkyoKen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
