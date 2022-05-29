@@ -37,9 +37,9 @@
 
 - Some games
 
-  [Maze game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C1%5B%E8%BF%B7%E8%B7%AF%E3%82%B2%E3%83%BC%E3%83%A0%5D), [Target game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C2%E3%80%8C%E3%83%9E%E3%82%A6%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%88%E7%9A%84%E3%81%82%E3%81%A6%EF%BC%89%E3%80%8D), [Shooting game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C3%E3%80%8C%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8D) - based on C++, DirectX
+  [Maze game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C1%5B%E8%BF%B7%E8%B7%AF%E3%82%B2%E3%83%BC%E3%83%A0%5D), [Target game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C2%E3%80%8C%E3%83%9E%E3%82%A6%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%88%E7%9A%84%E3%81%82%E3%81%A6%EF%BC%89%E3%80%8D), [Shooting game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C3%E3%80%8C%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8D) - C++, DirectX
 
-  [Minesweeper](https://github.com/SkyoKen/Minesweeper), [Othello](https://github.com/SkyoKen/Othello) - based on Processing
+  [Minesweeper](https://github.com/SkyoKen/Minesweeper), [Othello](https://github.com/SkyoKen/Othello) - Processing
 
   And I also used Unity to make some Android games and PC games.
   
