@@ -2,14 +2,50 @@
   <h1></h1>
   <p>🌱Trying to be an Embedded Hardware,Frontend,Backend,AI and IoT Fullstack Engineer⭐!!!</p>
   <p><a href="https://github.com/SkyoKen"><img src="https://img.shields.io/github/followers/SkyoKen?style=social" alt="forks"></a></p>
-  <p><a href="README.md">ENGLISH</a> | <a href="README.md">中文</a> |  <a href="README.md">日本語</a></p>
+  <p><a href="README.md">ENGLISH</a> | <a href="README_ZH.md">中文</a> |  <a href="README_JP.md">日本語</a></p>
 </div>
 
 ## My Main Projects (Present/Past)
 
+- [RasCon](https://github.com/SkyoKen/RasCon_NS) - Python, Flask
 
+  Connect to Nintendo Switch over Bluetooth, to enable control, emulate amiibo and use script from the web.
 
-I have done a personal using IoT system By Arduino and raspberryPI3. And I prepare to make a automatic pet feeder  for my cats.
+- [M5Core2_PlantMonitoring](https://github.com/SkyoKen/M5Core2_PlantMonitoring) - M5Stack, C++, Ambient
+
+   Check the condition of plants in real time, and remote monitoring is also possible by using Ambient.
+
+- [GenerativeART4NFT](https://github.com/SkyoKen/GenerativeART4NFT) - Python, Pywebio
+
+  By combining the images of each part, we generate generative art for NFT.
+  
+- [LeapPiano](https://github.com/SkyoKen/LeapPiano) - LeapMotion, Processing 
+
+  Play the piano by gesture operation using LeapMotion.
+
+- [LeapOrchestra](https://github.com/SkyoKen/LeapOrchestra) - RasberryPi, SonicPi, LeapMotion, Processing, Ruby 
+
+  You can feel like a conductor by performing gesture operations using LeapMotion.
+
+- [OpenCV_Picture](https://github.com/SkyoKen/OpenCV_Picture) - C#, OpenCV
+
+  Convert camera image or prepared image for style transfer using opencv.
+
+- [OpenCV_monitor](https://github.com/SkyoKen/OpenCV_monitor) - C#, OpenCV 
+
+  Perform face recognition to implement camera monitoring function using opencv.
+
+- Some games
+
+  [Maze game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C1%5B%E8%BF%B7%E8%B7%AF%E3%82%B2%E3%83%BC%E3%83%A0%5D), [Target game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C2%E3%80%8C%E3%83%9E%E3%82%A6%E3%82%B9%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B2%E3%83%BC%E3%83%A0%EF%BC%88%E7%9A%84%E3%81%82%E3%81%A6%EF%BC%89%E3%80%8D), [Shooting game](https://github.com/SkyoKen/Other/tree/master/JEC/%E6%94%B9%E9%80%A0%E8%AA%B2%E9%A1%8C3%E3%80%8C%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%8D) - based on C++, DirectX
+
+  [Minesweeper](https://github.com/SkyoKen/Minesweeper), [Othello](https://github.com/SkyoKen/Othello) - based on Processing
+
+  And I also used Unity to make some Android games and PC games.
+  
+- I built a static blog with jekyll on the server at home to record the usual programming learning.
+
+- I have done a personal using IoT system By Arduino and raspberryPI3. And I prepare to make a automatic pet feeder  for my cats.
 
 
 ## Tech Stack
