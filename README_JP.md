@@ -41,11 +41,11 @@
 
   [Minesweeper](https://github.com/SkyoKen/Minesweeper), [Othello](https://github.com/SkyoKen/Othello) - Processing
 
-  And I also used Unity to make some Android games and PC games.
+  また、Unityを使用してAndroidゲームやPCゲームを作成したことがあります
   
-- I built a static blog with jekyll on the server at home to record the usual programming learning.
+- 自宅のサーバーにjekyllを使って静的なブログを作成し、普段のプログラミング学習を記録しました
 
-- I have done a personal using IoT system By Arduino and raspberryPI3. And I prepare to make a automatic pet feeder  for my cats.
+- ArduinoとraspberryPI3を使用して個人用IoTシステムを構築しました。猫のため、自動ペットフィーダーの制作を考えています。
 
 
 ## Tech Stack
