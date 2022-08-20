@@ -78,8 +78,14 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)![m5stack](https://img.shields.io/badge/m5stack-000000?style=for-the-badge&logoColor=white)
 
 
+<a href="#">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=SkyoKen&column=7&theme=onedark"/>
+    </p>
+</a>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyoKen&show_icons=true&theme=dark)
-
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=SkyoKen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a align="center" href="#">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SkyoKen&show_icons=true&theme=dark" alt="my github stats" width="420"/>
+    </p>
+</a>
