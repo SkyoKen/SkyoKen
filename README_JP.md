@@ -3,6 +3,11 @@
   <p>🌱組み込みハードウェア、フロントエンド、バックエンド、AI、IoTフルスタックエンジニアを目指しています⭐!!!</p>
   <p><a href="https://github.com/SkyoKen"><img src="https://img.shields.io/github/followers/SkyoKen?style=social" alt="forks"></a></p>
   <p><a href="README.md">ENGLISH</a> | <a href="README_ZH.md">中文</a> |  <a href="README_JP.md">日本語</a></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyoKen/SkyoKen/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyoKen/SkyoKen/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SkyoKen/SkyoKen/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## My Main Projects (Present/Past)
@@ -77,12 +82,6 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)![m5stack](https://img.shields.io/badge/m5stack-000000?style=for-the-badge&logoColor=white)
 
-
-<a href="#">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=SkyoKen&column=7&theme=onedark"/>
-    </p>
-</a>
 
 <a align="center" href="#">
     <p align="center">
